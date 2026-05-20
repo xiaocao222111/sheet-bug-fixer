@@ -73,10 +73,6 @@ Codex 会按流程：
 
 ## 权限说明
 
-如果这个 GitHub 仓库是 public，任何人都可以安装这个 skill。
-
-如果仓库是 private，只有有仓库访问权限的人可以安装。
-
 使用这个 skill 修复真实项目时，还需要：
 
 - 能访问目标 Google Sheet
