@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sheet Bug Fixer"
+  short_description: "Fix bugs from a status-tracked sheet"
+  default_prompt: "Use $sheet-bug-fixer to process a bug spreadsheet, update row statuses, fix the code, verify changes, and write concise remarks."
